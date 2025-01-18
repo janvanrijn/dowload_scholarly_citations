@@ -6,13 +6,16 @@ import os
 from scholarly import ProxyGenerator
 from scholarly import scholarly
 
-
+# JvR: note: this script does not allow for the successful download of OpenML citations, 
+# since the Google Scholar API blocks all requests after pagination 100 (first 1000 results)
+# could be fixed by further specifying the query (e.g., download all citations per year)
+# but that requires additional digging in the scholarly API. 
 def read_cmd():
     parser = argparse.ArgumentParser()
     parser.add_argument('--scraper_api_key', default=None, type=str)
     parser.add_argument('--publication_id', default='17799286834300265378', type=str)
     parser.add_argument('--result_limit', default=10, type=int)
-    parser.add_argument('--start_index', default=1000, type=int)
+    parser.add_argument('--start_index', default=0, type=int)
     parser.add_argument('--output_directory', default=os.path.expanduser('~/experiments/citations'), type=str)
     args_, misc = parser.parse_known_args()
 

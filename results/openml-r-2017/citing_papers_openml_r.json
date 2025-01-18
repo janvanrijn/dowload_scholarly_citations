@@ -1,0 +1,440 @@
+[
+    {
+        "title": "Hyperparameters and tuning strategies for random forest",
+        "link": "https://wires.onlinelibrary.wiley.com/doi/abs/10.1002/widm.1301",
+        "snippet": "The random forest (RF) algorithm has several hyperparameters that have to be set by the user, for example, the number of observations drawn randomly for each tree and whether\u00a0\u2026",
+        "authors_year_info": "P Probst, MN Wright\u2026\u00a0- \u2026\u00a0Reviews: data mining and\u00a0\u2026, 2019 - Wiley Online Library"
+    },
+    {
+        "title": "A comparison of random forest variable selection methods for classification prediction modeling",
+        "link": "https://www.sciencedirect.com/science/article/pii/S0957417419303574",
+        "snippet": "Random forest classification is a popular machine learning method for developing prediction models in many research settings. Often in prediction modeling, a goal is to reduce the\u00a0\u2026",
+        "authors_year_info": "JL Speiser, ME Miller, J Tooze, E Ip\u00a0- Expert systems with applications, 2019 - Elsevier"
+    },
+    {
+        "title": "Benchmark for filter methods for feature selection in high-dimensional classification data",
+        "link": "https://www.sciencedirect.com/science/article/pii/S016794731930194X",
+        "snippet": "Feature selection is one of the most fundamental problems in machine learning and has drawn increasing attention due to high-dimensional data sets emerging from different fields\u00a0\u2026",
+        "authors_year_info": "A Bommert, X Sun, B Bischl, J Rahnenf\u00fchrer\u2026\u00a0- \u2026\u00a0Statistics & Data Analysis, 2020 - Elsevier"
+    },
+    {
+        "title": "Tunability: Importance of hyperparameters of machine learning algorithms",
+        "link": "https://www.jmlr.org/papers/v20/18-444.html",
+        "snippet": "Modern supervised machine learning algorithms involve hyperparameters that have to be set before running them. Options for setting hyperparameters are default values from the\u00a0\u2026",
+        "authors_year_info": "P Probst, AL Boulesteix, B Bischl\u00a0- Journal of Machine Learning Research, 2019 - jmlr.org"
+    },
+    {
+        "title": "To tune or not to tune the number of trees in random forest",
+        "link": "https://www.jmlr.org/papers/v18/17-269.html",
+        "snippet": "The number of trees T in the random forest (RF) algorithm for supervised learning has to be set by the user. It is unclear whether T should simply be set to the largest computationally\u00a0\u2026",
+        "authors_year_info": "P Probst, AL Boulesteix\u00a0- Journal of Machine Learning Research, 2018 - jmlr.org"
+    },
+    {
+        "title": "Visualizing the feature importance for black box models",
+        "link": "https://link.springer.com/chapter/10.1007/978-3-030-10925-7_40",
+        "snippet": "In recent years, a large amount of model-agnostic methods to improve the transparency, trustability, and interpretability of machine learning models have been developed. Based on\u00a0\u2026",
+        "authors_year_info": "G Casalicchio, C Molnar, B Bischl\u00a0- \u2026\u00a010\u201314, 2018, Proceedings, Part I 18, 2019 - Springer"
+    },
+    {
+        "title": "Model-agnostic feature importance and effects with dependent features: a conditional subgroup approach",
+        "link": "https://link.springer.com/article/10.1007/s10618-022-00901-9",
+        "snippet": "The interpretation of feature importance in machine learning models is challenging when features are dependent. Permutation feature importance (PFI) ignores such dependencies\u00a0\u2026",
+        "authors_year_info": "C Molnar, G K\u00f6nig, B Bischl, G Casalicchio\u00a0- Data Mining and Knowledge\u00a0\u2026, 2024 - Springer"
+    },
+    {
+        "title": "Automl in the age of large language models: Current challenges, future opportunities and risks",
+        "link": "https://arxiv.org/abs/2306.08107",
+        "snippet": "The fields of both Natural Language Processing (NLP) and Automated Machine Learning (AutoML) have achieved remarkable results over the past years. In NLP, especially Large\u00a0\u2026",
+        "authors_year_info": "A Tornede, D Deng, T Eimer, J Giovanelli\u2026\u00a0- arXiv preprint arXiv\u00a0\u2026, 2023 - arxiv.org"
+    },
+    {
+        "title": "Openml benchmarking suites",
+        "link": "https://arxiv.org/abs/1708.03731",
+        "snippet": "Machine learning research depends on objectively interpretable, comparable, and reproducible algorithm benchmarks. We advocate the use of curated, comprehensive suites\u00a0\u2026",
+        "authors_year_info": "B Bischl, G Casalicchio, M Feurer, P Gijsbers\u2026\u00a0- arXiv preprint arXiv\u00a0\u2026, 2017 - arxiv.org"
+    },
+    {
+        "title": "Large-scale benchmark study of survival prediction methods using multi-omics data",
+        "link": "https://academic.oup.com/bib/article-abstract/22/3/bbaa167/5895463",
+        "snippet": "Multi-omics data, that is, datasets containing different types of high-dimensional molecular variables, are increasingly often generated for the investigation of various diseases\u00a0\u2026",
+        "authors_year_info": "M Herrmann, P Probst, R Hornung\u2026\u00a0- Briefings in\u00a0\u2026, 2021 - academic.oup.com"
+    },
+    {
+        "title": "A meta-learning recommender system for hyperparameter tuning: Predicting when tuning improves SVM classifiers",
+        "link": "https://www.sciencedirect.com/science/article/pii/S002002551930533X",
+        "snippet": "For many machine learning algorithms, predictive performance is critically affected by the hyperparameter values used to train them. However, tuning these hyperparameters can\u00a0\u2026",
+        "authors_year_info": "RG Mantovani, ALD Rossi, E Alcoba\u00e7a\u2026\u00a0- Information\u00a0\u2026, 2019 - Elsevier"
+    },
+    {
+        "title": "Openml-python: an extensible python api for openml",
+        "link": "https://www.jmlr.org/papers/v22/19-920.html",
+        "snippet": "OpenML is an online platform for open science collaboration in machine learning, used to share datasets and results of machine learning experiments. In this paper, we introduce\u00a0\u2026",
+        "authors_year_info": "M Feurer, JN Van Rijn, A Kadra, P Gijsbers\u2026\u00a0- Journal of Machine\u00a0\u2026, 2021 - jmlr.org"
+    },
+    {
+        "title": "A comparative analysis of traditional and deep learning-based anomaly detection methods for streaming data",
+        "link": "https://ieeexplore.ieee.org/abstract/document/8999106/",
+        "snippet": "With the Internet of Things (IoT) devices becoming an integral part of human life, the need for robust anomaly detection in streaming data has also been elevated. Dozens of distance\u00a0\u2026",
+        "authors_year_info": "M Munir, MA Chattha, A Dengel\u2026\u00a0- 2019 18th IEEE\u00a0\u2026, 2019 - ieeexplore.ieee.org"
+    },
+    {
+        "title": "Ensemble of ML-KNN for classification algorithm recommendation",
+        "link": "https://www.sciencedirect.com/science/article/pii/S0950705121001969",
+        "snippet": "With the mountains of classification algorithms proposed in the literature, the study of how to select suitable classifier (s) for a given problem is important and practical. Existing methods\u00a0\u2026",
+        "authors_year_info": "X Zhu, C Ying, J Wang, J Li, X Lai, G Wang\u00a0- Knowledge-Based Systems, 2021 - Elsevier"
+    },
+    {
+        "title": "SoilKsatDB: global soil saturated hydraulic conductivity measurements for geoscience applications",
+        "link": "https://essd.copernicus.org/articles/13/1593/2021/",
+        "snippet": "The saturated soil hydraulic conductivity (Ksat) is a key parameter in many hydrological and climate models. Ksat values are primarily determined from basic soil properties and may\u00a0\u2026",
+        "authors_year_info": "S Gupta, T Hengl, P Lehmann\u2026\u00a0- Earth System Science\u00a0\u2026, 2020 - essd.copernicus.org"
+    },
+    {
+        "title": "Automated imbalanced classification via meta-learning",
+        "link": "https://www.sciencedirect.com/science/article/pii/S0957417421004528",
+        "snippet": "Imbalanced learning is one of the most relevant problems in machine learning. However, it faces two crucial challenges. First, the amount of methods proposed to deal with such\u00a0\u2026",
+        "authors_year_info": "N Moniz, V Cerqueira\u00a0- Expert Systems with Applications, 2021 - Elsevier"
+    },
+    {
+        "title": "OpenML benchmarking suites and the OpenML100",
+        "link": "https://www.researchgate.net/profile/Giuseppe-Casalicchio/publication/319121901_OpenML_Benchmarking_Suites_and_the_OpenML100/links/599ee1bfaca272dff134f8c6/OpenML-Benchmarking-Suites-and-the-OpenML100.pdf",
+        "snippet": "We advocate the use of curated, comprehensive benchmark suites of machine learning datasets, backed by standardized OpenML-based interfaces and complementary software\u00a0\u2026",
+        "authors_year_info": "B Bischl, G Casalicchio, M Feurer, F Hutter, M Lang\u2026\u00a0- stat, 2017 - researchgate.net"
+    },
+    {
+        "title": "On the role of benchmarking data sets and simulations in method comparison studies",
+        "link": "https://onlinelibrary.wiley.com/doi/abs/10.1002/bimj.202200212",
+        "snippet": "Method comparisons are essential to provide recommendations and guidance for applied researchers, who often have to choose from a plethora of available approaches. While many\u00a0\u2026",
+        "authors_year_info": "S Friedrich, T Friede\u00a0- Biometrical Journal, 2024 - Wiley Online Library"
+    },
+    {
+        "title": "Characterising surface roughness of Ti-6Al-4V alloy machined using coated and uncoated carbide tools with variable nose radius by machine learning",
+        "link": "https://www.sciencedirect.com/science/article/pii/S0952197623007303",
+        "snippet": "A rich literature explores how cutting parameters influence surface roughness in machining different materials using two-or three-dimensional visualisations. Research on Ti-6Al-4V\u00a0\u2026",
+        "authors_year_info": "AM Mazid, T Imam, KB Ahsan, N Khandoker\u00a0- Engineering Applications of\u00a0\u2026, 2023 - Elsevier"
+    },
+    {
+        "title": "Analysis of factors affecting user willingness to use virtual online education platforms",
+        "link": "https://www.learntechlib.org/p/220589/",
+        "snippet": "With the growing recognition and acceptance of virtual online education, more and more educational institutions are switching from offline business to online business. However\u00a0\u2026",
+        "authors_year_info": "X Shen, J Liu\u00a0- International Journal of Emerging Technologies in\u00a0\u2026, 2022 - learntechlib.org"
+    },
+    {
+        "title": "MLPro 1.0-Standardized reinforcement learning and game theory in Python",
+        "link": "https://www.sciencedirect.com/science/article/pii/S2666827022000482",
+        "snippet": "Nowadays there are numerous powerful software packages available for most areas of machine learning (ML). These can be roughly divided into frameworks that solve detailed\u00a0\u2026",
+        "authors_year_info": "D Arend, S Yuwono, MR Diprasetya\u2026\u00a0- Machine Learning with\u00a0\u2026, 2022 - Elsevier"
+    },
+    {
+        "title": "Imputation strategies for clustering mixed-type data with missing values",
+        "link": "https://link.springer.com/article/10.1007/s00357-022-09422-y",
+        "snippet": "Incomplete data sets with different data types are difficult to handle, but regularly to be found in practical clustering tasks. Therefore in this paper, two procedures for clustering mixed\u00a0\u2026",
+        "authors_year_info": "R Aschenbruck, G Szepannek, AFX Wilhelm\u00a0- Journal of Classification, 2023 - Springer"
+    },
+    {
+        "title": "OpenML-CTR23\u2013a curated tabular regression benchmarking suite",
+        "link": "https://openreview.net/pdf?id=HebAOoMm94",
+        "snippet": "Benchmark experiments are one of the cornerstones of modern machine learning research. An essential part in the design of such experiments is the selection of datasets. We present\u00a0\u2026",
+        "authors_year_info": "SF Fischer, M Feurer, B Bischl\u00a0- AutoML Conference 2023\u00a0\u2026, 2023 - openreview.net"
+    },
+    {
+        "title": "A novel approach of ensemble methods using the stacked generalization for high-dimensional datasets",
+        "link": "https://www.tandfonline.com/doi/abs/10.1080/03772063.2022.2028582",
+        "snippet": "Stacked generalization-based heterogeneous ensemble methods combine the prediction of multiple classifiers to improve overall classification performance. Several stacking methods\u00a0\u2026",
+        "authors_year_info": "SR Sharma, B Singh, M Kaur\u00a0- IETE Journal of Research, 2023 - Taylor & Francis"
+    },
+    {
+        "title": "Interaction-grounded learning with action-inclusive feedback",
+        "link": "https://proceedings.neurips.cc/paper_files/paper/2022/hash/512b6bc067a6c6fa6a6ff8e5f6445e10-Abstract-Conference.html",
+        "snippet": "Consider the problem setting of Interaction-Grounded Learning (IGL), in which a learner's goal is to optimally interact with the environment with no explicit reward to ground its\u00a0\u2026",
+        "authors_year_info": "T Xie, A Saran, DJ Foster, L Molu\u2026\u00a0- Advances in\u00a0\u2026, 2022 - proceedings.neurips.cc"
+    },
+    {
+        "title": "Accelerated and interpretable oblique random survival forests",
+        "link": "https://www.tandfonline.com/doi/abs/10.1080/10618600.2023.2231048",
+        "snippet": "The oblique random survival forest (RSF) is an ensemble supervised learning method for right-censored outcomes. Trees in the oblique RSF are grown using linear combinations of\u00a0\u2026",
+        "authors_year_info": "BC Jaeger, S Welden, K Lenoir, JL Speiser\u2026\u00a0- \u2026\u00a0of Computational and\u00a0\u2026, 2024 - Taylor & Francis"
+    },
+    {
+        "title": "A benchmark experiment on how to encode categorical features in predictive modeling",
+        "link": "https://files.de-1.osf.io/v1/resources/6fstx/providers/osfstorage/5c97e0b374462c0018ae66a8?action=download&direct&version=1",
+        "snippet": "In predictive modeling, high cardinality features (ie unordered categorical predictor variables with a high number of levels) often pose problems, as most supervised machine learning\u00a0\u2026",
+        "authors_year_info": "F Pargent, B Bischl, J Thomas\u00a0- M\u00fcnchen: Ludwig-Maximilians\u00a0\u2026, 2019 - files.de-1.osf.io"
+    },
+    {
+        "title": "Multilabel classification with R package mlr",
+        "link": "https://arxiv.org/abs/1703.08991",
+        "snippet": "We implemented several multilabel classification algorithms in the machine learning package mlr. The implemented methods are binary relevance, classifier chains, nested\u00a0\u2026",
+        "authors_year_info": "P Probst, Q Au, G Casalicchio, C Stachl\u2026\u00a0- arXiv preprint arXiv\u00a0\u2026, 2017 - arxiv.org"
+    },
+    {
+        "title": "Accelerated componentwise gradient boosting using efficient data representation and momentum-based optimization",
+        "link": "https://www.tandfonline.com/doi/abs/10.1080/10618600.2022.2116446",
+        "snippet": "Componentwise boosting (CWB), also known as model-based boosting, is a variant of gradient boosting that builds on additive models as base learners to ensure interpretability\u00a0\u2026",
+        "authors_year_info": "D Schalk, B Bischl, D R\u00fcgamer\u00a0- Journal of Computational and\u00a0\u2026, 2023 - Taylor & Francis"
+    },
+    {
+        "title": "Neighborhood predictors of suicide and firearm suicide in Detroit, Michigan",
+        "link": "https://link.springer.com/article/10.1186/s40621-024-00530-4",
+        "snippet": "Background Suicide is a leading cause of death in the United States with rates increasing over the past two decades. The rate of suicide is higher in rural areas, but a greater number\u00a0\u2026",
+        "authors_year_info": "C Smirniotis, VA Pear, RMC Kagawa\u00a0- Injury Epidemiology, 2024 - Springer"
+    },
+    {
+        "title": "Integration of feature selection stability in model fitting",
+        "link": "https://eldorado.tu-dortmund.de/bitstream/2003/40023/1/Dissertation_Bommert.pdf",
+        "snippet": "Feature selection is one of the most fundamental problems in data analysis, machine learning, and data mining. Recently, it has drawn increasing attention due to high\u00a0\u2026",
+        "authors_year_info": "AM Bommert - 2020 - eldorado.tu-dortmund.de"
+    },
+    {
+        "title": "Automatic exploration of machine learning experiments on openml",
+        "link": "https://arxiv.org/abs/1806.10961",
+        "snippet": "Understanding the influence of hyperparameters on the performance of a machine learning algorithm is an important scientific topic in itself and can help to improve automatic\u00a0\u2026",
+        "authors_year_info": "D K\u00fchn, P Probst, J Thomas, B Bischl\u00a0- arXiv preprint arXiv:1806.10961, 2018 - arxiv.org"
+    },
+    {
+        "title": "Comparative analysis of ensemble classifier and single base classifier in medical disease diagnosis",
+        "link": "https://link.springer.com/chapter/10.1007/978-981-15-3325-9_37",
+        "snippet": "The speedy development of the amount of medical health information available to the healthcare industry is driving demand for more accurate, precise, and reliable tools for\u00a0\u2026",
+        "authors_year_info": "SS Yadav, VJ Kadam, SM Jadhav\u00a0- Communication and Intelligent\u00a0\u2026, 2020 - Springer"
+    },
+    {
+        "title": "Hyperparameters, tuning and meta-learning for random forest and other machine learning algorithms",
+        "link": "https://edoc.ub.uni-muenchen.de/24557/",
+        "snippet": "In this cumulative dissertation thesis, I examine the influence of hyperparameters on machine learning algorithms, with a special focus on random forest. It mainly consists of\u00a0\u2026",
+        "authors_year_info": "P Probst - 2019 - edoc.ub.uni-muenchen.de"
+    },
+    {
+        "title": "A novel outlook on feature selection as a multi-objective problem",
+        "link": "https://link.springer.com/chapter/10.1007/978-3-030-45715-0_6",
+        "snippet": "Feature selection is the process of choosing, or removing, features to obtain the most informative feature subset of minimal size. Such subsets are used to improve performance of\u00a0\u2026",
+        "authors_year_info": "P Barbiero, E Lutton, G Squillero, A Tonda\u00a0- International conference on\u00a0\u2026, 2019 - Springer"
+    },
+    {
+        "title": "Tiny classifier circuits: Evolving accelerators for tabular data",
+        "link": "https://arxiv.org/abs/2303.00031",
+        "snippet": "A typical machine learning (ML) development cycle for edge computing is to maximise the performance during model training and then minimise the memory/area footprint of the\u00a0\u2026",
+        "authors_year_info": "K Iordanou, T Atkinson, E Ozer, J Kufel, J Biggs\u2026\u00a0- arXiv preprint arXiv\u00a0\u2026, 2023 - arxiv.org"
+    },
+    {
+        "title": "Model selection with bootstrap validation",
+        "link": "https://onlinelibrary.wiley.com/doi/abs/10.1002/sam.11606",
+        "snippet": "Abstract Model selection is one of the most central tasks in supervised learning. Validation set methods are the standard way to accomplish this task: models are trained on training\u00a0\u2026",
+        "authors_year_info": "R Savvides, J M\u00e4kel\u00e4\u2026\u00a0- Statistical Analysis and\u00a0\u2026, 2023 - Wiley Online Library"
+    },
+    {
+        "title": "Self-Adjusting Weighted Expected Improvement for Bayesian Optimization",
+        "link": "https://arxiv.org/abs/2306.04262",
+        "snippet": "Bayesian Optimization (BO) is a class of surrogate-based, sample-efficient algorithms for optimizing black-box problems with small evaluation budgets. The BO pipeline itself is highly\u00a0\u2026",
+        "authors_year_info": "C Benjamins, E Raponi, A Jankovic, C Doerr\u2026\u00a0- arXiv preprint arXiv\u00a0\u2026, 2023 - arxiv.org"
+    },
+    {
+        "title": "Strategies for Broadcast Information Finding Anomalies Based on Deep Learning and the Past: A review analysis",
+        "link": "https://ieeexplore.ieee.org/abstract/document/10580585/",
+        "snippet": "The demand for effective as a consequence of the Internet of Things (IoT), the identification of anomalies in streaming data has risen. Devices increasingly permeate daily life, many\u00a0\u2026",
+        "authors_year_info": "R Mariswari, V Narayani\u00a0- 2024 5th International Conference\u00a0\u2026, 2024 - ieeexplore.ieee.org"
+    },
+    {
+        "title": "System and method for detecting data drift",
+        "link": "https://patents.google.com/patent/US11544634B2/en",
+        "snippet": "Data drift or dataset shift is detected between training dataset and test dataset by training a scoring function using a pooled dataset, the pooled dataset including a union of the training\u00a0\u2026",
+        "authors_year_info": "VM Kamulete\u00a0- US Patent 11,544,634, 2023 - Google Patents"
+    },
+    {
+        "title": "Monitoring the Centennial Variation of Heavy Metals in Lake Sediments and Influencing Factors Using Environmental Magnetism and Machine Learning Methods",
+        "link": "https://www.e3s-conferences.org/articles/e3sconf/abs/2024/84/e3sconf_rees2024_01004/e3sconf_rees2024_01004.html",
+        "snippet": "The association between the magnetic properties of lake sediments and heavy metal (loid) s (HMs) is well-documented; however, their correlation with the chemical fractions of HMs\u00a0\u2026",
+        "authors_year_info": "L Deng, H Li, X Qian\u00a0- E3S Web of Conferences, 2024 - e3s-conferences.org"
+    },
+    {
+        "title": "Automated machine learning in research\u2013a literature review",
+        "link": "https://scholarspace.manoa.hawaii.edu/items/a493e116-a269-4cb4-8ccf-78971d40c674",
+        "snippet": "Abstract Machine learning (ML) has become increasingly popular among researchers and is used to analyze large and complex data sets to gain novel insights in various domains. This\u00a0\u2026",
+        "authors_year_info": "A Haberl, S Thalmann - 2025 - scholarspace.manoa.hawaii.edu"
+    },
+    {
+        "title": "MLPro-A synoptic framework for standardized machine learning tasks in Python",
+        "link": "https://papers.ssrn.com/sol3/Delivery.cfm?abstractid=4068681",
+        "snippet": "Nowadays there are numerous powerful software packages available for most areas of machine learning (ML). However, there is still a lack of frameworks that offer complete model\u00a0\u2026",
+        "authors_year_info": "D Arend, S Yuwono, MR Diprasetya, A Schwung - 2021 - papers.ssrn.com"
+    },
+    {
+        "title": "Modeling the combined influence of complexity and quality in supervised learning",
+        "link": "https://content.iospress.com/articles/intelligent-data-analysis/ida215962",
+        "snippet": "Data classification is a data mining task that consists of an algorithm adjusted by a training dataset that is used to predict an object's class (unclassified) on analysis. A significant part of\u00a0\u2026",
+        "authors_year_info": "R de \u00c1vila Mendes, LA da Silva\u00a0- Intelligent Data Analysis, 2022 - content.iospress.com"
+    },
+    {
+        "title": "Test for non-negligible adverse shifts",
+        "link": "https://proceedings.mlr.press/v180/kamulete22a.html",
+        "snippet": "Statistical tests for dataset shift are susceptible to false alarms: they are sensitive to minor differences when there is in fact adequate sample coverage and predictive performance. We\u00a0\u2026",
+        "authors_year_info": "VM Kamulete\u00a0- Uncertainty in Artificial Intelligence, 2022 - proceedings.mlr.press"
+    },
+    {
+        "title": "Component-wise boosting of targets for multi-output prediction",
+        "link": "https://arxiv.org/abs/1904.03943",
+        "snippet": "Multi-output prediction deals with the prediction of several targets of possibly diverse types. One way to address this problem is the so called problem transformation method. This\u00a0\u2026",
+        "authors_year_info": "Q Au, D Schalk, G Casalicchio, R Schoedel\u2026\u00a0- arXiv preprint arXiv\u00a0\u2026, 2019 - arxiv.org"
+    },
+    {
+        "title": "Thesis approved by the Department of Computer Science of the TU Kaiserslautern for the award of the Doctoral Degree doctor of engineering",
+        "link": "https://kluedo.ub.rptu.de/frontdoor/deliver/index/docId/6703/file/dissertation_mohsin_munir_2021.pdf",
+        "snippet": "Data is the new gold and serves as a key to answer the five W's (Who, What, Where, When, Why) and How's of any business. Companies are now mining data more than ever and one\u00a0\u2026",
+        "authors_year_info": "M Munir - 2021 - kluedo.ub.rptu.de"
+    },
+    {
+        "title": "Metadata Repositories",
+        "link": "https://link.springer.com/chapter/10.1007/978-3-030-67024-5_16",
+        "snippet": "This chapter presents a review of online repositories where researchers can share data, code, and experiments. In particular, it covers OpenML, an online platform for sharing and\u00a0\u2026",
+        "authors_year_info": "P Brazdil, JN van Rijn, C Soares\u2026\u00a0- \u2026\u00a0Applications to Automated\u00a0\u2026, 2022 - Springer"
+    },
+    {
+        "title": "Automatic Prediction of Human Age based on Heart Rate Variability Analysis using Feature-Based Methods",
+        "link": "https://www.diva-portal.org/smash/record.jsf?pid=diva2:1437148",
+        "snippet": "Heart rate variability (HRV) is the time variation between adjacent heartbeats. This variation is regulated by the autonomic nervous system (ANS) and its two branches, the sympathetic\u00a0\u2026",
+        "authors_year_info": "Y Al-Mter - 2020 - diva-portal.org"
+    },
+    {
+        "title": "Evaluating the Impact of Removing Low-relevance Features in Non-retrained Neural Networks",
+        "link": "https://www.polibits.cidetec.ipn.mx/ojs/index.php/CyS/article/view/4951",
+        "snippet": "Feature selection is a widely used technique to boost the efficiency of machine learning models, particularly when working with high-dimensional datasets. However, after reducing\u00a0\u2026",
+        "authors_year_info": "U Corona-Berm\u00fadez\u2026\u00a0- Computaci\u00f3n y\u00a0\u2026, 2024 - polibits.cidetec.ipn.mx"
+    },
+    {
+        "title": "Comprehensive algorithm portfolio evaluation using item response theory",
+        "link": "https://www.jmlr.org/papers/v24/20-1318.html",
+        "snippet": "Item Response Theory (IRT) has been proposed within the field of Educational Psychometrics to assess student ability as well as test question difficulty and discrimination\u00a0\u2026",
+        "authors_year_info": "S Kandanaarachchi, K Smith-Miles\u00a0- Journal of Machine Learning\u00a0\u2026, 2023 - jmlr.org"
+    },
+    {
+        "title": "Harnessing reconfigurable hardware to design heterogeneous systems",
+        "link": "https://core.ac.uk/download/pdf/571217827.pdf",
+        "snippet": "The golden age of the uniprocessor has come to an end [7]. On the one side, Moore's Law [8], the observation that the number of transistors in dense integrated circuits doubles about\u00a0\u2026",
+        "authors_year_info": "K Iordanou - 2023 - core.ac.uk"
+    },
+    {
+        "title": "Confirmatory studies in methodological statistical research: concept and illustration",
+        "link": "https://epub.ub.uni-muenchen.de/94460/1/MA_Lange_Felix_Julian_BEARB.pdf",
+        "snippet": "Hypothesis-generating, exploratory research and hypothesis-testing, confirmatory research are both essential to progress in science. However, failing to separate the two types of\u00a0\u2026",
+        "authors_year_info": "FJD Lange - 2022 - epub.ub.uni-muenchen.de"
+    },
+    {
+        "title": "The joint-effect of imbalanced and missing data: a challenging task in data analysis",
+        "link": "https://estudogeral.uc.pt/handle/10316/103003",
+        "snippet": "The evolution of the technology increased exponentially the amount of available data and the complexity of it, which brought some data quality problems that affect negatively the\u00a0\u2026",
+        "authors_year_info": "MLI Coelho - 2022 - estudogeral.uc.pt"
+    },
+    {
+        "title": "Systems for AutoML Research",
+        "link": "https://research.tue.nl/files/202454606/20220519_Gijsbers_hf.pdf",
+        "snippet": "Machine learning (ML) is used in many applications but creating a useful model from data is a knowledge-intensive and laborious task. Automated machine learning (AutoML) aims to\u00a0\u2026",
+        "authors_year_info": "P Gijsbers - 2022 - research.tue.nl"
+    },
+    {
+        "title": "CONSTRUCTING A PREDICTIVE MODEL FOR SCN8A DEVELOPMENTAL AND EPILEPTIC ENCEPHALOPATHY",
+        "link": "https://repository.arizona.edu/handle/10150/665764",
+        "snippet": "SCN8A Developmental and Epileptic Encephalopathy (SCN8A-DEE) is a rare pediatric neurological disease caused by mutations in the SCN8A gene, which encodes for the\u00a0\u2026",
+        "authors_year_info": "JB Hack - 2022 - repository.arizona.edu"
+    },
+    {
+        "title": "On benchmark experiments and visualization methods for the evaluation and interpretation of machine learning models",
+        "link": "https://edoc.ub.uni-muenchen.de/23890/1/Casalicchio_Giuseppe.pdf",
+        "snippet": "This cumulative dissertation consists of five contributing articles, which are divided into three parts. The first part of the thesis extends the mlr package for the statistical software R\u00a0\u2026",
+        "authors_year_info": "G Casalicchio - 2019 - edoc.ub.uni-muenchen.de"
+    },
+    {
+        "title": "Parallel GEP Ensemble for Classifying Big Datasets",
+        "link": "https://link.springer.com/chapter/10.1007/978-3-319-98446-9_22",
+        "snippet": "The paper describes a GEP-based ensemble classifier constructed using the stacked generalization concept. The classifier has been implemented with a view to enable parallel\u00a0\u2026",
+        "authors_year_info": "J J\u0229drzejowicz, P J\u0229drzejowicz\u2026\u00a0- \u2026\u00a0Conference, ICCCI 2018\u00a0\u2026, 2018 - Springer"
+    },
+    {
+        "title": "Machine Learning with Applications",
+        "link": "https://publikationen.fhb.fh-swf.de/servlets/MCRFileNodeServlet/fhswf_derivate_00000505/1-s2.0-S2666827022000482-main.pdf",
+        "snippet": "Nowadays there are numerous powerful software packages available for most areas of machine learning (ML). These can be roughly divided into frameworks that solve detailed\u00a0\u2026",
+        "authors_year_info": "D Arend, S Yuwono, MR Diprasetya, A Schwung - publikationen.fhb.fh-swf.de"
+    },
+    {
+        "title": "Supplementary Material for Accelerated Component-wise Gradient Boosting using Efficient Data Representation and Momentum-based Optimization",
+        "link": "https://tandf.figshare.com/articles/journal_contribution/Accelerated_Componentwise_Gradient_Boosting_using_Efficient_Data_Representation_and_Momentum-based_Optimization/20604833/2/files/36810869.pdf",
+        "snippet": "CWB also can incorporate penalties into each base learner. A bigger penalization could lead to inflexible base learners having a disadvantage in being able to fit the pseudo\u00a0\u2026",
+        "authors_year_info": "D Schalk, B Bischl, D R\u00fcgamer - tandf.figshare.com"
+    },
+    {
+        "title": "Der Einfluss von mtry auf Random Forests",
+        "link": "https://epub.ub.uni-muenchen.de/59094/1/MA_Hatz.pdf",
+        "snippet": "Abstract Die Korrelation der Entscheidungsb\u00e4ume eines Random Forests wird unter anderem durch den Hyperparameter mtry beeinflusst. Dieser bestimmt die Anzahl an\u00a0\u2026",
+        "authors_year_info": "M Hatz - 2018 - epub.ub.uni-muenchen.de"
+    },
+    {
+        "title": "Different approaches to fitting and extrapolating the learning curve",
+        "link": "https://repository.tudelft.nl/record/uuid:25107a29-606e-4f76-bfa0-d1884fa4da02",
+        "snippet": "Extrapolation of the learning curve provides an estimation of how much data is needed to achieve the desired performance. It can be beneficial when gathering data is complex, or\u00a0\u2026",
+        "authors_year_info": "D Kim - 2022 - repository.tudelft.nl"
+    },
+    {
+        "title": "Solving Multiclass Imbalance Problem with Codes",
+        "link": "https://search.proquest.com/openview/0b9fa9b8d89fc616069301637214b5fe/1?pq-origsite=gscholar&cbl=2026366&diss=y",
+        "snippet": "Data imbalance is a common problem in classification tasks, and the minority classes are usually the classes of interest. Existing related research mainly focuses on addressing the\u00a0\u2026",
+        "authors_year_info": "CX Wang - 2021 - search.proquest.com"
+    },
+    {
+        "title": "Factor retention revised: Analyzing current practice and developing new methods",
+        "link": "https://edoc.ub.uni-muenchen.de/26194/1/Goretzko_David.pdf",
+        "snippet": "The present thesis consists of three studies covering different methodological decisions that have to be made when conducting exploratory factor analyses. Study 1 is a review on the\u00a0\u2026",
+        "authors_year_info": "D Goretzko - 2020 - edoc.ub.uni-muenchen.de"
+    },
+    {
+        "title": "Extending Hyperband with Model-Based Sampling Strategies",
+        "link": "https://epub.ub.uni-muenchen.de/59111/1/MA_Klein_Niklas.pdf",
+        "snippet": "We address the problem of hyperparameter optimization for machine learning algorithms. This is a difficult task for two main reasons: On one hand, the function modelled by the\u00a0\u2026",
+        "authors_year_info": "N Klein - 2018 - epub.ub.uni-muenchen.de"
+    },
+    {
+        "title": "Dataset Shift and the Adjustment of Probabilistic Classifiers",
+        "link": "https://core.ac.uk/download/pdf/237084413.pdf",
+        "snippet": "Classification is the machine learning problem of assigning a class to a given instance of data defined by a set of features. Probabilistic classification is the stricter problem of\u00a0\u2026",
+        "authors_year_info": "TJT Heiser - core.ac.uk"
+    },
+    {
+        "title": "Composi\u00e7\u00e3o de um indicador de qualidade para classifica\u00e7\u00f5es bin\u00e1rias com base na qualidade e na complexidade dos dados",
+        "link": "https://dspace.mackenzie.br/handle/10899/29388",
+        "snippet": "A classifica\u00e7\u00e3o de dados \u00e9 uma tarefa de minera\u00e7\u00e3o de dados que consiste na aplica\u00e7\u00e3o de um algoritmo a conjunto de dados de treinamento com a finalidade de inferir a classe de um\u00a0\u2026",
+        "authors_year_info": "R\u00c1 Mendes - 2021 - dspace.mackenzie.br"
+    },
+    {
+        "title": "Proceedings of Reisensburg 2016\u20132017",
+        "link": "https://link.springer.com/article/10.1007/s00180-019-00907-w",
+        "snippet": "The conference \u201cStatistical Computing\u201d is held annually at the Reisensburg cas\u2011tle near G\u00fcnzburg (Germany) by the working group \u201cBiostatistics\u201d of the German Classification\u00a0\u2026",
+        "authors_year_info": "M Schmid, B Bischl, HA Kestler\u00a0- Computational Statistics, 2019 - Springer"
+    },
+    {
+        "title": "A Hybrid Framework for Time-series Analysis: From Anomaly Detection to Uncertainty Estimation and Explainability",
+        "link": "https://kluedo.ub.rptu.de/frontdoor/index/index/docId/6703",
+        "snippet": "Data is the new gold and serves as a key to answer the five W's (Who, What, Where, When, Why) and How's of any business. Companies are now mining data more than ever and one\u00a0\u2026",
+        "authors_year_info": "M Munir - 2021 - kluedo.ub.rptu.de"
+    },
+    {
+        "title": "The unfulfilled promises of sitemaps",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Impact_of_sitemaps_on_Italian_Wikipedia_search_engine-referred_traffic.pdf",
+        "snippet": "Summary In July 2018, the Italian Wikipedia instituted a temporary block to protest the copyright potential copyright changes in Europe. This had a negative side-effect of search\u00a0\u2026",
+        "authors_year_info": "M Popov - 2018 - upload.wikimedia.org"
+    },
+    {
+        "title": "Modelling of Viral Disease Risk",
+        "link": "https://munin.uit.no/handle/10037/22553",
+        "snippet": "Covid-19 has had a significant impact on daily life since the initial outbreak of the global pandemic in late 2019. Countries have been affected to varying degrees, depending on\u00a0\u2026",
+        "authors_year_info": "N Hahn - 2021 - munin.uit.no"
+    },
+    {
+        "title": "\u6a5f\u5668\u5b78\u7fd2\u65bc\u5fc3\u623f\u986b\u52d5\u9810\u6e2c\u4e4b\u61c9\u7528",
+        "link": "https://www.airitilibrary.com/Article/Detail/U0001-2910202104175000",
+        "snippet": "Atrial fibrillation may be complicated by heart failure and stroke, which can lead to disability or death. Although there have been studies exploring the causes of atrial fibrillation, there\u00a0\u2026",
+        "authors_year_info": "DL Wu\u00a0- \u570b\u7acb\u81fa\u7063\u5927\u5b78\u7d71\u8a08\u78a9\u58eb\u5b78\u4f4d\u5b78\u7a0b\u5b78\u4f4d\u8ad6\u6587, 2021 - airitilibrary.com"
+    },
+    {
+        "title": "SMOTEMD: UN ALGORITMO DE BALANCEO DE DATOS MIXTOS PARA BIG DATA EN R",
+        "link": "http://scielo.senescyt.gob.ec/scielo.php?script=sci_arttext&pid=S2477-91052020000100020",
+        "snippet": "Analizar muestras con datos desbalanceados es un desaf\u00edo para quien debe utilizarlos en t\u00e9rminos de modelizaci\u00f3n. Un contexto en el que esto sucede es cuando la variable de\u00a0\u2026",
+        "authors_year_info": "V Morales-O\u00f1ate, L Moreta, B Morales-O\u00f1ate\u00a0- Perfiles, 2020 - scielo.senescyt.gob.ec"
+    }
+]

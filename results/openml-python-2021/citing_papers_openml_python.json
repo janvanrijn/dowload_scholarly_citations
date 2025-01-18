@@ -1,0 +1,644 @@
+[
+    {
+        "title": "Open graph benchmark: Datasets for machine learning on graphs",
+        "link": "https://proceedings.neurips.cc/paper/2020/hash/fb60d411a5c5b72b2e7d3527cfc84fd0-Abstract.html",
+        "snippet": "Abstract We present the Open Graph Benchmark (OGB), a diverse set of challenging and realistic benchmark datasets to facilitate scalable, robust, and reproducible graph machine\u00a0\u2026",
+        "authors_year_info": "W Hu, M Fey, M Zitnik, Y Dong, H Ren\u2026\u00a0- Advances in neural\u00a0\u2026, 2020 - proceedings.neurips.cc"
+    },
+    {
+        "title": "Confident learning: Estimating uncertainty in dataset labels",
+        "link": "https://www.jair.org/index.php/jair/article/view/12125",
+        "snippet": "Learning exists in the context of data, yet notions of confidence typically focus on model predictions, not label quality. Confident learning (CL) is an alternative approach which\u00a0\u2026",
+        "authors_year_info": "C Northcutt, L Jiang, I Chuang\u00a0- Journal of Artificial Intelligence Research, 2021 - jair.org"
+    },
+    {
+        "title": "Tabpfn: A transformer that solves small tabular classification problems in a second",
+        "link": "https://arxiv.org/abs/2207.01848",
+        "snippet": "We present TabPFN, a trained Transformer that can do supervised classification for small tabular datasets in less than a second, needs no hyperparameter tuning and is competitive\u00a0\u2026",
+        "authors_year_info": "N Hollmann, S M\u00fcller, K Eggensperger\u2026\u00a0- arXiv preprint arXiv\u00a0\u2026, 2022 - arxiv.org"
+    },
+    {
+        "title": "Auto-sklearn 2.0: Hands-free automl via meta-learning",
+        "link": "https://www.jmlr.org/papers/v23/21-0992.html",
+        "snippet": "Automated Machine Learning (AutoML) supports practitioners and researchers with the tedious task of designing machine learning pipelines and has recently achieved substantial\u00a0\u2026",
+        "authors_year_info": "M Feurer, K Eggensperger, S Falkner\u2026\u00a0- Journal of Machine\u00a0\u2026, 2022 - jmlr.org"
+    },
+    {
+        "title": "Well-tuned simple nets excel on tabular datasets",
+        "link": "https://proceedings.neurips.cc/paper/2021/hash/c902b497eb972281fb5b4e206db38ee6-Abstract.html",
+        "snippet": "Tabular datasets are the last\" unconquered castle\" for deep learning, with traditional ML methods like Gradient-Boosted Decision Trees still performing strongly even against recent\u00a0\u2026",
+        "authors_year_info": "A Kadra, M Lindauer, F Hutter\u2026\u00a0- Advances in neural\u00a0\u2026, 2021 - proceedings.neurips.cc"
+    },
+    {
+        "title": "Auto-pytorch: Multi-fidelity metalearning for efficient and robust autodl",
+        "link": "https://ieeexplore.ieee.org/abstract/document/9382913/",
+        "snippet": "While early AutoML frameworks focused on optimizing traditional ML pipelines and their hyperparameters, a recent trend in AutoML is to focus on neural architecture search. In this\u00a0\u2026",
+        "authors_year_info": "L Zimmer, M Lindauer, F Hutter\u00a0- IEEE transactions on pattern\u00a0\u2026, 2021 - ieeexplore.ieee.org"
+    },
+    {
+        "title": "Sampling weights of deep neural networks",
+        "link": "https://proceedings.neurips.cc/paper_files/paper/2023/hash/c7201deff8d507a8fe2e86d34094e154-Abstract-Conference.html",
+        "snippet": "We introduce a probability distribution, combined with an efficient sampling algorithm, for weights and biases of fully-connected neural networks. In a supervised learning context, no\u00a0\u2026",
+        "authors_year_info": "EL Bolager, I Burak, C Datar, Q Sun\u2026\u00a0- Advances in Neural\u00a0\u2026, 2023 - proceedings.neurips.cc"
+    },
+    {
+        "title": "Data-oob: Out-of-bag estimate as a simple and efficient data value",
+        "link": "https://proceedings.mlr.press/v202/kwon23e.html",
+        "snippet": "Data valuation is a powerful framework for providing statistical insights into which data are beneficial or detrimental to model training. Many Shapley-based data valuation methods\u00a0\u2026",
+        "authors_year_info": "Y Kwon, J Zou\u00a0- International Conference on Machine\u00a0\u2026, 2023 - proceedings.mlr.press"
+    },
+    {
+        "title": "Large language models for automated data science: Introducing caafe for context-aware automated feature engineering",
+        "link": "https://proceedings.neurips.cc/paper_files/paper/2023/hash/8c2df4c35cdbee764ebb9e9d0acd5197-Abstract-Conference.html",
+        "snippet": "As the field of automated machine learning (AutoML) advances, it becomes increasingly important to incorporate domain knowledge into these systems. We present an approach for\u00a0\u2026",
+        "authors_year_info": "N Hollmann, S M\u00fcller, F Hutter\u00a0- Advances in Neural\u00a0\u2026, 2024 - proceedings.neurips.cc"
+    },
+    {
+        "title": "Openml benchmarking suites",
+        "link": "https://arxiv.org/abs/1708.03731",
+        "snippet": "Machine learning research depends on objectively interpretable, comparable, and reproducible algorithm benchmarks. We advocate the use of curated, comprehensive suites\u00a0\u2026",
+        "authors_year_info": "B Bischl, G Casalicchio, M Feurer, P Gijsbers\u2026\u00a0- arXiv preprint arXiv\u00a0\u2026, 2017 - arxiv.org"
+    },
+    {
+        "title": "Auto-sklearn 2.0: The next generation",
+        "link": "https://www.researchgate.net/profile/Matthias-Feurer/publication/342801746_Auto-Sklearn_20_The_Next_Generation/links/5f7c334aa6fdccfd7b4a87de/Auto-Sklearn-20-The-Next-Generation.pdf",
+        "snippet": "Automated Machine Learning, which supports practitioners and researchers with the tedious task of manually designing machine learning pipelines, has recently achieved substantial\u00a0\u2026",
+        "authors_year_info": "M Feurer, K Eggensperger, S Falkner\u2026\u00a0- arXiv preprint arXiv\u00a0\u2026, 2020 - researchgate.net"
+    },
+    {
+        "title": "Fast and informative model selection using learning curve cross-validation",
+        "link": "https://ieeexplore.ieee.org/abstract/document/10064171/",
+        "snippet": "Common cross-validation (CV) methods like k-fold cross-validation or Monte Carlo cross-validation estimate the predictive performance of a learner by repeatedly training it on a\u00a0\u2026",
+        "authors_year_info": "F Mohr, JN van Rijn\u00a0- IEEE Transactions on Pattern Analysis\u00a0\u2026, 2023 - ieeexplore.ieee.org"
+    },
+    {
+        "title": "Automl pipeline selection: Efficiently navigating the combinatorial space",
+        "link": "https://dl.acm.org/doi/abs/10.1145/3394486.3403197",
+        "snippet": "Data scientists seeking a good supervised learning model on a dataset have many choices to make: they must preprocess the data, select features, possibly reduce the dimension\u00a0\u2026",
+        "authors_year_info": "C Yang, J Fan, Z Wu, M Udell\u00a0- proceedings of the 26th ACM SIGKDD\u00a0\u2026, 2020 - dl.acm.org"
+    },
+    {
+        "title": "OLP++: An online local classifier for high dimensional data",
+        "link": "https://www.sciencedirect.com/science/article/pii/S1566253522001427",
+        "snippet": "Ensemble diversity is an important characteristic of Multiple Classifier Systems (MCS), which aim at improving the overall performance of a classification system by combining the\u00a0\u2026",
+        "authors_year_info": "MA Souza, R Sabourin, GDC Cavalcanti, RMO Cruz\u00a0- Information Fusion, 2023 - Elsevier"
+    },
+    {
+        "title": "When are deep networks really better than decision forests at small sample sizes, and how?",
+        "link": "https://arxiv.org/abs/2108.13637",
+        "snippet": "Deep networks and decision forests (such as random forests and gradient boosted trees) are the leading machine learning methods for structured and tabular data, respectively\u00a0\u2026",
+        "authors_year_info": "H Xu, KA Kinfu, W LeVine, S Panda, J Dey\u2026\u00a0- arXiv preprint arXiv\u00a0\u2026, 2021 - arxiv.org"
+    },
+    {
+        "title": "Hpo-b: A large-scale reproducible benchmark for black-box hpo based on openml",
+        "link": "https://arxiv.org/abs/2106.06257",
+        "snippet": "Hyperparameter optimization (HPO) is a core problem for the machine learning community and remains largely unsolved due to the significant computational resources required to\u00a0\u2026",
+        "authors_year_info": "SP Arango, HS Jomaa, M Wistuba\u2026\u00a0- arXiv preprint arXiv\u00a0\u2026, 2021 - arxiv.org"
+    },
+    {
+        "title": "Openbox: A Python toolkit for generalized black-box optimization",
+        "link": "https://www.jmlr.org/papers/v25/23-0537.html",
+        "snippet": "Black-box optimization (BBO) has a broad range of applications, including automatic machine learning, experimental design, and database knob tuning. However, users still face\u00a0\u2026",
+        "authors_year_info": "H Jiang, Y Shen, Y Li, B Xu, S Du, W Zhang\u2026\u00a0- Journal of Machine\u00a0\u2026, 2024 - jmlr.org"
+    },
+    {
+        "title": "abess: a fast best-subset selection library in python and R",
+        "link": "https://www.jmlr.org/papers/v23/21-1060.html",
+        "snippet": "We introduce a new library named abess that implements a unified framework of best-subset selection for solving diverse machine learning problems, eg, linear regression, classification\u00a0\u2026",
+        "authors_year_info": "J Zhu, X Wang, L Hu, J Huang, K Jiang, Y Zhang\u2026\u00a0- Journal of Machine\u00a0\u2026, 2022 - jmlr.org"
+    },
+    {
+        "title": "Meta-learning from tasks with heterogeneous attribute spaces",
+        "link": "https://proceedings.neurips.cc/paper/2020/hash/438124b4c06f3a5caffab2c07863b617-Abstract.html",
+        "snippet": "We propose a heterogeneous meta-learning method that trains a model on tasks with various attribute spaces, such that it can solve unseen tasks whose attribute spaces are\u00a0\u2026",
+        "authors_year_info": "T Iwata, A Kumagai\u00a0- Advances in Neural Information\u00a0\u2026, 2020 - proceedings.neurips.cc"
+    },
+    {
+        "title": "MLPro 1.0-Standardized reinforcement learning and game theory in Python",
+        "link": "https://www.sciencedirect.com/science/article/pii/S2666827022000482",
+        "snippet": "Nowadays there are numerous powerful software packages available for most areas of machine learning (ML). These can be roughly divided into frameworks that solve detailed\u00a0\u2026",
+        "authors_year_info": "D Arend, S Yuwono, MR Diprasetya\u2026\u00a0- Machine Learning with\u00a0\u2026, 2022 - Elsevier"
+    },
+    {
+        "title": "AgEBO-tabular: joint neural architecture and hyperparameter search with autotuned data-parallel training for tabular data",
+        "link": "https://dl.acm.org/doi/abs/10.1145/3458817.3476203",
+        "snippet": "Developing high-performing predictive models for large tabular data sets is a challenging task. Neural architecture search (NAS) is an AutoML approach that generates and evaluates\u00a0\u2026",
+        "authors_year_info": "R Egele, P Balaprakash, I Guyon\u2026\u00a0- Proceedings of the\u00a0\u2026, 2021 - dl.acm.org"
+    },
+    {
+        "title": "Incremental permutation feature importance (iPFI): towards online explanations on data streams",
+        "link": "https://link.springer.com/article/10.1007/s10994-023-06385-y",
+        "snippet": "Explainable artificial intelligence has mainly focused on static learning scenarios so far. We are interested in dynamic scenarios where data is sampled progressively, and learning is\u00a0\u2026",
+        "authors_year_info": "F Fumagalli, M Muschalik, E H\u00fcllermeier, B Hammer\u00a0- Machine Learning, 2023 - Springer"
+    },
+    {
+        "title": "shapiq: Shapley interactions for machine learning",
+        "link": "https://arxiv.org/abs/2410.01649",
+        "snippet": "Originally rooted in game theory, the Shapley Value (SV) has recently become an important tool in machine learning research. Perhaps most notably, it is used for feature attribution and\u00a0\u2026",
+        "authors_year_info": "M Muschalik, H Baniecki, F Fumagalli\u2026\u00a0- arXiv preprint arXiv\u00a0\u2026, 2024 - arxiv.org"
+    },
+    {
+        "title": "OpenML-CTR23\u2013a curated tabular regression benchmarking suite",
+        "link": "https://openreview.net/pdf?id=HebAOoMm94",
+        "snippet": "Benchmark experiments are one of the cornerstones of modern machine learning research. An essential part in the design of such experiments is the selection of datasets. We present\u00a0\u2026",
+        "authors_year_info": "SF Fischer, M Feurer, B Bischl\u00a0- AutoML Conference 2023\u00a0\u2026, 2023 - openreview.net"
+    },
+    {
+        "title": "Genlabel: Mixup relabeling using generative models",
+        "link": "https://arxiv.org/abs/2201.02354",
+        "snippet": "Mixup is a data augmentation method that generates new data points by mixing a pair of input data. While mixup generally improves the prediction performance, it sometimes\u00a0\u2026",
+        "authors_year_info": "J Sohn, L Shang, H Chen, J Moon\u2026\u00a0- arXiv preprint arXiv\u00a0\u2026, 2022 - arxiv.org"
+    },
+    {
+        "title": "Beyond TreeSHAP: Efficient Computation of Any-Order Shapley Interactions for Tree Ensembles",
+        "link": "https://ojs.aaai.org/index.php/AAAI/article/view/29352",
+        "snippet": "While shallow decision trees may be interpretable, larger ensemble models like gradient-boosted trees, which often set the state of the art in machine learning problems involving\u00a0\u2026",
+        "authors_year_info": "M Muschalik, F Fumagalli, B Hammer\u2026\u00a0- Proceedings of the AAAI\u00a0\u2026, 2024 - ojs.aaai.org"
+    },
+    {
+        "title": "Evolution of activation functions: an empirical investigation",
+        "link": "https://dl.acm.org/doi/abs/10.1145/3464384",
+        "snippet": "The hyper-parameters of a neural network are traditionally designed through a time-consuming process of trial and error that requires substantial expert knowledge. Neural\u00a0\u2026",
+        "authors_year_info": "A Nader, D Azar\u00a0- ACM Transactions on Evolutionary Learning and\u00a0\u2026, 2021 - dl.acm.org"
+    },
+    {
+        "title": "Optimal or Greedy Decision Trees? Revisiting their Objectives, Tuning, and Performance",
+        "link": "https://arxiv.org/abs/2409.12788",
+        "snippet": "Decision trees are traditionally trained using greedy heuristics that locally optimize an impurity or information metric. Recently there has been a surge of interest in optimal\u00a0\u2026",
+        "authors_year_info": "JGM van der Linden, D Vos, MM de Weerdt\u2026\u00a0- arXiv preprint arXiv\u00a0\u2026, 2024 - arxiv.org"
+    },
+    {
+        "title": "Anderson acceleration of coordinate descent",
+        "link": "http://proceedings.mlr.press/v130/bertrand21a.html",
+        "snippet": "Acceleration of first order methods is mainly obtained via inertia \u00e0 la Nesterov, or via nonlinear extrapolation. The latter has known a recent surge of interest, with successful\u00a0\u2026",
+        "authors_year_info": "Q Bertrand, M Massias\u00a0- International Conference on\u00a0\u2026, 2021 - proceedings.mlr.press"
+    },
+    {
+        "title": "Conceptual views on tree ensemble classifiers",
+        "link": "https://www.sciencedirect.com/science/article/pii/S0888613X23000610",
+        "snippet": "Random Forests and related tree-based methods are popular for supervised learning from table based data. Apart from their ease of parallelization, their classification performance is\u00a0\u2026",
+        "authors_year_info": "T Hanika, J Hirth\u00a0- International Journal of Approximate Reasoning, 2023 - Elsevier"
+    },
+    {
+        "title": "Boosted off-policy learning",
+        "link": "https://proceedings.mlr.press/v206/london23a.html",
+        "snippet": "We propose the first boosting algorithm for off-policy learning from logged bandit feedback. Unlike existing boosting methods for supervised learning, our algorithm directly optimizes an\u00a0\u2026",
+        "authors_year_info": "B London, L Lu, T Sandler\u2026\u00a0- \u2026\u00a0Conference on Artificial\u00a0\u2026, 2023 - proceedings.mlr.press"
+    },
+    {
+        "title": "Interaction-grounded learning with action-inclusive feedback",
+        "link": "https://proceedings.neurips.cc/paper_files/paper/2022/hash/512b6bc067a6c6fa6a6ff8e5f6445e10-Abstract-Conference.html",
+        "snippet": "Consider the problem setting of Interaction-Grounded Learning (IGL), in which a learner's goal is to optimally interact with the environment with no explicit reward to ground its\u00a0\u2026",
+        "authors_year_info": "T Xie, A Saran, DJ Foster, L Molu\u2026\u00a0- Advances in\u00a0\u2026, 2022 - proceedings.neurips.cc"
+    },
+    {
+        "title": "Don't Waste Your Time: Early Stopping Cross-Validation",
+        "link": "https://arxiv.org/abs/2405.03389",
+        "snippet": "State-of-the-art automated machine learning systems for tabular data often employ cross-validation; ensuring that measured performances generalize to unseen data, or that\u00a0\u2026",
+        "authors_year_info": "E Bergman, L Purucker, F Hutter\u00a0- arXiv preprint arXiv:2405.03389, 2024 - arxiv.org"
+    },
+    {
+        "title": "Reduced dilation-erosion perceptron for binary classification",
+        "link": "https://www.mdpi.com/2227-7390/8/4/512",
+        "snippet": "Dilation and erosion are two elementary operations from mathematical morphology, a non-linear lattice computing methodology widely used for image processing and analysis. The\u00a0\u2026",
+        "authors_year_info": "ME Valle\u00a0- Mathematics, 2020 - mdpi.com"
+    },
+    {
+        "title": "isage: An incremental version of SAGE for online explanation on data streams",
+        "link": "https://link.springer.com/chapter/10.1007/978-3-031-43418-1_26",
+        "snippet": "Existing methods for explainable artificial intelligence (XAI), including popular feature importance measures such as SAGE, are mostly restricted to the batch learning scenario\u00a0\u2026",
+        "authors_year_info": "M Muschalik, F Fumagalli, B Hammer\u2026\u00a0- \u2026\u00a0European Conference on\u00a0\u2026, 2023 - Springer"
+    },
+    {
+        "title": "Assembled-OpenML: Creating efficient benchmarks for ensembles in AutoML with OpenML",
+        "link": "https://arxiv.org/abs/2307.00285",
+        "snippet": "Automated Machine Learning (AutoML) frameworks regularly use ensembles. Developers need to compare different ensemble techniques to select appropriate techniques for an\u00a0\u2026",
+        "authors_year_info": "L Purucker, J Beel\u00a0- arXiv preprint arXiv:2307.00285, 2023 - arxiv.org"
+    },
+    {
+        "title": "Metaheuristic optimization scheme for quantum kernel classifiers using entanglement\u2010directed graphs",
+        "link": "https://onlinelibrary.wiley.com/doi/abs/10.4218/etrij.2024-0144",
+        "snippet": "Entanglement is crucial for achieving quantum advantages. However, in the context of quantum machine learning, existing optimization strategies for generating quantum classifier\u00a0\u2026",
+        "authors_year_info": "Y Tjandra, HS Sugiarto\u00a0- ETRI Journal, 2024 - Wiley Online Library"
+    },
+    {
+        "title": "Discrimination Neural Network Model for Binary Classification Tasks on Tabular Data",
+        "link": "https://ieeexplore.ieee.org/abstract/document/10041927/",
+        "snippet": "For the classification task, neural network-based approaches attempt to distinguish between two distributions by determining the joint distribution of input variables for each class\u00a0\u2026",
+        "authors_year_info": "L Munkhdalai, T Munkhdalai, JE Hong, VH Pham\u2026\u00a0- IEEE\u00a0\u2026, 2023 - ieeexplore.ieee.org"
+    },
+    {
+        "title": "Detecting interactions from neural networks via topological analysis",
+        "link": "https://proceedings.neurips.cc/paper/2020/hash/473803f0f2ebd77d83ee60daaa61f381-Abstract.html",
+        "snippet": "Detecting statistical interactions between input features is a crucial and challenging task. Recent advances demonstrate that it is possible to extract learned interactions from trained\u00a0\u2026",
+        "authors_year_info": "Z Liu, Q Song, K Zhou, TH Wang\u2026\u00a0- Advances in neural\u00a0\u2026, 2020 - proceedings.neurips.cc"
+    },
+    {
+        "title": "An efficient contesting procedure for AutoML optimization",
+        "link": "https://ieeexplore.ieee.org/abstract/document/9832605/",
+        "snippet": "Automated Machine Learning (AutoML) frameworks are designed to select the optimal combination of operators and hyperparameters. Classical AutoML-based Bayesian\u00a0\u2026",
+        "authors_year_info": "DA Nguyen, AV Kononova, S Menzel, B Sendhoff\u2026\u00a0- IEEE\u00a0\u2026, 2022 - ieeexplore.ieee.org"
+    },
+    {
+        "title": "Concept Accumulation and Gradient-Guided Adaption for continual learning in evolving streaming",
+        "link": "https://www.sciencedirect.com/science/article/pii/S0925231224009652",
+        "snippet": "Learning algorithms in modern information systems often operate in dynamic environments where data is collected as transient data streams. Processing data streams imposes new\u00a0\u2026",
+        "authors_year_info": "L Xiong, S Chen, H Zhou, H Xiong\u00a0- Neurocomputing, 2024 - Elsevier"
+    },
+    {
+        "title": "MetaPrep: Data preparation pipelines recommendation via meta-learning",
+        "link": "https://ieeexplore.ieee.org/abstract/document/9680108/",
+        "snippet": "Data preparation is a mandatory phase in the machine learning pipeline. The goal of data preparation is to convert noisy and disordered data into refined data that can be used by the\u00a0\u2026",
+        "authors_year_info": "FR Zagatti, LC Silva, LNDS Silva\u2026\u00a0- 2021 20th IEEE\u00a0\u2026, 2021 - ieeexplore.ieee.org"
+    },
+    {
+        "title": "Towards more sustainable and trustworthy reporting in machine learning",
+        "link": "https://link.springer.com/article/10.1007/s10618-024-01020-3",
+        "snippet": "With machine learning (ML) becoming a popular tool across all domains, practitioners are in dire need of comprehensive reporting on the state-of-the-art. Benchmarks and open\u00a0\u2026",
+        "authors_year_info": "R Fischer, T Liebig, K Morik\u00a0- Data Mining and Knowledge Discovery, 2024 - Springer"
+    },
+    {
+        "title": "Why Do Tree Ensemble Approximators Not Outperform the Recursive-Rule eXtraction Algorithm?",
+        "link": "https://www.mdpi.com/2504-4990/6/1/31",
+        "snippet": "Although machine learning models are widely used in critical domains, their complexity and poor interpretability remain problematic. Decision trees (DTs) and rule-based models are\u00a0\u2026",
+        "authors_year_info": "S Onishi, M Nishimura, R Fujimura\u2026\u00a0- Machine Learning and\u00a0\u2026, 2024 - mdpi.com"
+    },
+    {
+        "title": "Reinforced In-Context Black-Box Optimization",
+        "link": "https://arxiv.org/abs/2402.17423",
+        "snippet": "Black-Box Optimization (BBO) has found successful applications in many fields of science and engineering. Recently, there has been a growing interest in meta-learning particular\u00a0\u2026",
+        "authors_year_info": "L Song, C Gao, K Xue, C Wu, D Li, J Hao\u2026\u00a0- arXiv preprint arXiv\u00a0\u2026, 2024 - arxiv.org"
+    },
+    {
+        "title": "2D-OOB: Attributing Data Contribution Through Joint Valuation Framework",
+        "link": "https://arxiv.org/abs/2408.03572",
+        "snippet": "Data valuation has emerged as a powerful framework for quantifying each datum's contribution to the training of a machine learning model. However, it is crucial to recognize\u00a0\u2026",
+        "authors_year_info": "Y Sun, J Shen, Y Kwon\u00a0- arXiv preprint arXiv:2408.03572, 2024 - arxiv.org"
+    },
+    {
+        "title": "CAAFE: Combining Large Language Models with Tabular Predictors for Semi-Automated Data Science",
+        "link": "https://openreview.net/forum?id=59TY0RW6Po",
+        "snippet": "As the field of automated machine learning (AutoML) advances, it becomes increasingly important to incorporate domain knowledge into these systems. Our approach combines the\u00a0\u2026",
+        "authors_year_info": "N Hollmann, S M\u00fcller, F Hutter\u00a0- 1st Workshop on the Synergy of\u00a0\u2026, 2023 - openreview.net"
+    },
+    {
+        "title": "Constructing Confidence Intervals for'the'Generalization Error--a Comprehensive Benchmark Study",
+        "link": "https://arxiv.org/abs/2409.18836",
+        "snippet": "When assessing the quality of prediction models in machine learning, confidence intervals (CIs) for the generalization error, which measures predictive performance, are a crucial tool\u00a0\u2026",
+        "authors_year_info": "H Schulz-K\u00fcmpel, S Fischer, T Nagler\u2026\u00a0- arXiv preprint arXiv\u00a0\u2026, 2024 - arxiv.org"
+    },
+    {
+        "title": "Mind the gap: Measuring generalization performance across multiple objectives",
+        "link": "https://link.springer.com/chapter/10.1007/978-3-031-30047-9_11",
+        "snippet": "Modern machine learning models are often constructed taking into account multiple objectives, eg, minimizing inference time while also maximizing accuracy. Multi-objective\u00a0\u2026",
+        "authors_year_info": "M Feurer, K Eggensperger, E Bergman\u2026\u00a0- \u2026\u00a0on Intelligent Data\u00a0\u2026, 2023 - Springer"
+    },
+    {
+        "title": "ALPBench: A Benchmark for Active Learning Pipelines on Tabular Data",
+        "link": "https://arxiv.org/abs/2406.17322",
+        "snippet": "In settings where only a budgeted amount of labeled data can be afforded, active learning seeks to devise query strategies for selecting the most informative data points to be labeled\u00a0\u2026",
+        "authors_year_info": "V Margraf, M Wever, S Gilhuber, GM Tavares\u2026\u00a0- arXiv preprint arXiv\u00a0\u2026, 2024 - arxiv.org"
+    },
+    {
+        "title": "CAST: Cluster-Aware Self-Training for Tabular Data",
+        "link": "https://arxiv.org/abs/2310.06380",
+        "snippet": "Self-training has gained attraction because of its simplicity and versatility, yet it is vulnerable to noisy pseudo-labels. Several studies have proposed successful approaches to tackle this\u00a0\u2026",
+        "authors_year_info": "M Kim, J Kim, K Kim, D Kang, G Song\u00a0- arXiv preprint arXiv:2310.06380, 2023 - arxiv.org"
+    },
+    {
+        "title": "Meta-learning of semi-supervised learning from tasks with heterogeneous attribute spaces",
+        "link": "https://arxiv.org/abs/2311.05088",
+        "snippet": "We propose a meta-learning method for semi-supervised learning that learns from multiple tasks with heterogeneous attribute spaces. The existing semi-supervised meta-learning\u00a0\u2026",
+        "authors_year_info": "T Iwata, A Kumagai\u00a0- arXiv preprint arXiv:2311.05088, 2023 - arxiv.org"
+    },
+    {
+        "title": "Do Bayesian Neural Networks Weapon System Improve Predictive Maintenance?",
+        "link": "https://ieeexplore.ieee.org/abstract/document/10457828/",
+        "snippet": "We implement a Bayesian inference process for Neural Networks to model the time to failure of highly reliable weapon systems with interval-censored data and time-varying covariates\u00a0\u2026",
+        "authors_year_info": "ML Potter, MD Jun\u00a0- 2024 Annual Reliability and Maintainability\u00a0\u2026, 2024 - ieeexplore.ieee.org"
+    },
+    {
+        "title": "Progressive Ensemble Learning for In-sample Imagery Data Cleaning",
+        "link": "https://ieeexplore.ieee.org/abstract/document/10693472/",
+        "snippet": "We present an ensemble learning-based data cleaning approach (touted as ELDC) capable of identifying and pruning anomaly data. ELDC is characterized in that an ensemble of base\u00a0\u2026",
+        "authors_year_info": "JH Wang, SK Lee, TY Wang, MJ Chen, SW Hsu\u00a0- IEEE Access, 2024 - ieeexplore.ieee.org"
+    },
+    {
+        "title": "Towards interaction detection using topological analysis on neural networks",
+        "link": "https://arxiv.org/abs/2010.13015",
+        "snippet": "Detecting statistical interactions between input features is a crucial and challenging task. Recent advances demonstrate that it is possible to extract learned interactions from trained\u00a0\u2026",
+        "authors_year_info": "Z Liu, Q Song, K Zhou, TH Wang, Y Shan\u2026\u00a0- arXiv preprint arXiv\u00a0\u2026, 2020 - arxiv.org"
+    },
+    {
+        "title": "Neural model-based optimization with right-censored observations",
+        "link": "https://arxiv.org/abs/2009.13828",
+        "snippet": "In many fields of study, we only observe lower bounds on the true response value of some experiments. When fitting a regression model to predict the distribution of the outcomes, we\u00a0\u2026",
+        "authors_year_info": "K Eggensperger, K Haase, P M\u00fcller, M Lindauer\u2026\u00a0- arXiv preprint arXiv\u00a0\u2026, 2020 - arxiv.org"
+    },
+    {
+        "title": "An evaluative measure of clustering methods incorporating hyperparameter sensitivity",
+        "link": "https://ojs.aaai.org/index.php/AAAI/article/view/20747",
+        "snippet": "Clustering algorithms are often evaluated using metrics which compare with ground-truth cluster assignments, such as Rand index and NMI. Algorithm performance may vary widely\u00a0\u2026",
+        "authors_year_info": "S Mishra, N Monath, M Boratko, A Kobren\u2026\u00a0- Proceedings of the\u00a0\u2026, 2022 - ojs.aaai.org"
+    },
+    {
+        "title": "Neural Dynamic Data Valuation",
+        "link": "https://arxiv.org/abs/2404.19557",
+        "snippet": "Data constitute the foundational component of the data economy and its marketplaces. Efficient and fair data valuation has emerged as a topic of significant interest.\\Many\u00a0\u2026",
+        "authors_year_info": "Z Liang, H Gao, J Zhang\u00a0- arXiv preprint arXiv:2404.19557, 2024 - arxiv.org"
+    },
+    {
+        "title": "KernelSHAP-IQ: Weighted Least-Square Optimization for Shapley Interactions",
+        "link": "https://arxiv.org/abs/2405.10852",
+        "snippet": "The Shapley value (SV) is a prevalent approach of allocating credit to machine learning (ML) entities to understand black box ML models. Enriching such interpretations with higher\u00a0\u2026",
+        "authors_year_info": "F Fumagalli, M Muschalik, P Kolpaczki\u2026\u00a0- arXiv preprint arXiv\u00a0\u2026, 2024 - arxiv.org"
+    },
+    {
+        "title": "SML-AutoML: A Smart Meta-Learning Automated Machine Learning Framework. Advances in Artificial Intelligence and Machine Learning. 2024\u037e 4 (4): 176",
+        "link": "https://www.oajaiml.com/uploads/archivepdf/134544176.pdf",
+        "snippet": "Abstract In recent years, Machine Learning (ML) and Automated Machine Learning (Auto-ML) have attracted significant attention. The ML pipeline involves repetitive tasks such as\u00a0\u2026",
+        "authors_year_info": "I Gomaa\u00a0- diabetes, 2024 - oajaiml.com"
+    },
+    {
+        "title": "An Evolutionary Algorithm Design for Pauli-based Quantum Kernel Classification.",
+        "link": "https://ceur-ws.org/Vol-3462/QDSM3.pdf",
+        "snippet": "Recently, converting classical data into quantum information brought considerably potential applications in improving machine learning tasks. Particularly, a quantum feature map could\u00a0\u2026",
+        "authors_year_info": "Y Tjandra, HS Sugiarto\u00a0- VLDB Workshops, 2023 - ceur-ws.org"
+    },
+    {
+        "title": "Information Leakage Detection through Approximate Bayes-optimal Prediction",
+        "link": "https://arxiv.org/abs/2401.14283",
+        "snippet": "In today's data-driven world, the proliferation of publicly available information intensifies the challenge of information leakage (IL), raising security concerns. IL involves unintentionally\u00a0\u2026",
+        "authors_year_info": "P Gupta, M Wever, E H\u00fcllermeier\u00a0- arXiv preprint arXiv:2401.14283, 2024 - arxiv.org"
+    },
+    {
+        "title": "Modeling electro-erosion wear of cryogenic treated electrodes of mold steels using machine learning algorithms",
+        "link": "https://link.springer.com/chapter/10.1007/978-981-99-6062-0_3",
+        "snippet": "Electro-erosion wear (EEW) is a significant problem in the mold steel industry, as it can greatly reduce the lifespan of electrodes. This study presents a machine-learning approach\u00a0\u2026",
+        "authors_year_info": "A Cetin, G Atali, C Erden, SS Ozkan\u00a0- International Symposium on\u00a0\u2026, 2023 - Springer"
+    },
+    {
+        "title": "On the power of message passing for learning on graph-structured data",
+        "link": "https://eldorado.tu-dortmund.de/bitstream/2003/41059/1/dissertation_fey.pdf",
+        "snippet": "This thesis proposes novel approaches for machine learning on irregularly structured input data such as graphs, point clouds and manifolds. Specifically, we are breaking up with the\u00a0\u2026",
+        "authors_year_info": "M Fey - 2022 - eldorado.tu-dortmund.de"
+    },
+    {
+        "title": "Model Share AI: An Integrated Toolkit for Collaborative Machine Learning Model Development, Provenance Tracking, and Deployment in Python",
+        "link": "https://arxiv.org/abs/2309.15719",
+        "snippet": "Machine learning (ML) has the potential to revolutionize a wide range of research areas and industries, but many ML projects never progress past the proof-of-concept stage. To address\u00a0\u2026",
+        "authors_year_info": "H Peters, M Parrott\u00a0- arXiv preprint arXiv:2309.15719, 2023 - arxiv.org"
+    },
+    {
+        "title": "Self-Adjusting Weighted Expected Improvement for Bayesian Optimization",
+        "link": "https://arxiv.org/abs/2306.04262",
+        "snippet": "Bayesian Optimization (BO) is a class of surrogate-based, sample-efficient algorithms for optimizing black-box problems with small evaluation budgets. The BO pipeline itself is highly\u00a0\u2026",
+        "authors_year_info": "C Benjamins, E Raponi, A Jankovic, C Doerr\u2026\u00a0- arXiv preprint arXiv\u00a0\u2026, 2023 - arxiv.org"
+    },
+    {
+        "title": "OpenAL: Evaluation and Interpretation of Active Learning Strategies",
+        "link": "https://arxiv.org/abs/2304.05246",
+        "snippet": "Despite the vast body of literature on Active Learning (AL), there is no comprehensive and open benchmark allowing for efficient and simple comparison of proposed samplers\u00a0\u2026",
+        "authors_year_info": "W Jonas, A Abraham, L Dreyfus-Schmidt\u00a0- arXiv preprint arXiv:2304.05246, 2023 - arxiv.org"
+    },
+    {
+        "title": "MLPro-A synoptic framework for standardized machine learning tasks in Python",
+        "link": "https://papers.ssrn.com/sol3/Delivery.cfm?abstractid=4068681",
+        "snippet": "Nowadays there are numerous powerful software packages available for most areas of machine learning (ML). However, there is still a lack of frameworks that offer complete model\u00a0\u2026",
+        "authors_year_info": "D Arend, S Yuwono, MR Diprasetya, A Schwung - 2021 - papers.ssrn.com"
+    },
+    {
+        "title": "Design and Visualization of Python Web Scraping Based on Third-Party Libraries and Selenium Tools",
+        "link": "https://www.francis-press.com/uploads/papers/yRRDqleNxUNqNt1xyBAQlE16TdmUL8n1iBfj1g1a.pdf",
+        "snippet": "The aim of this study is to analyze the data from Chinese movie websites to understand the trend distribution of movie genres and ratings. It used Python third-party libraries and the\u00a0\u2026",
+        "authors_year_info": "S Yuan\u00a0- Academic Journal of Computing & Information\u00a0\u2026, 2023 - francis-press.com"
+    },
+    {
+        "title": "Cost-sensitive hierarchical clustering for dynamic classifier selection",
+        "link": "https://ieeexplore.ieee.org/abstract/document/10069850/",
+        "snippet": "Given an ensemble of classifiers, dynamic classifier selection (DCS) selects one classifier depending on the particular input vector that we get to classify. DCS is a special case of\u00a0\u2026",
+        "authors_year_info": "M Sellmann, T Shah\u00a0- 2022 21st IEEE International Conference\u00a0\u2026, 2022 - ieeexplore.ieee.org"
+    },
+    {
+        "title": "Metadata Repositories",
+        "link": "https://link.springer.com/chapter/10.1007/978-3-030-67024-5_16",
+        "snippet": "This chapter presents a review of online repositories where researchers can share data, code, and experiments. In particular, it covers OpenML, an online platform for sharing and\u00a0\u2026",
+        "authors_year_info": "P Brazdil, JN van Rijn, C Soares\u2026\u00a0- \u2026\u00a0Applications to Automated\u00a0\u2026, 2022 - Springer"
+    },
+    {
+        "title": "Conceptual Data Scaling in Machine Learning",
+        "link": "https://kobra.uni-kassel.de/bitstreams/6edade46-aef2-4602-9803-ca4113f3b565/download",
+        "snippet": "Information can be measured and represented on many different scales and encoded in multiple formats. The operations that can be used on the data depend on the type of scale\u00a0\u2026",
+        "authors_year_info": "J Hirth - 2024 - kobra.uni-kassel.de"
+    },
+    {
+        "title": "Efficient Tuning of Automated Machine Learning Pipelines",
+        "link": "https://scholarlypublications.universiteitleiden.nl/access/item%3A4094134/download",
+        "snippet": "In recent years, Machine Learning (ML) has achieved success in many real-world applications, such as self-driving cars [1], assisting doctors in diagnosing diseases [2]\u00a0\u2026",
+        "authors_year_info": "DA Nguyen - 2024 - scholarlypublications\u00a0\u2026"
+    },
+    {
+        "title": "Random forests for adaptive nearest neighbor estimation of information-theoretic quantities",
+        "link": "https://arxiv.org/abs/1907.00325",
+        "snippet": "Information-theoretic quantities, such as conditional entropy and mutual information, are critical data summaries for quantifying uncertainty. Current widely used approaches for\u00a0\u2026",
+        "authors_year_info": "R Perry, R Mehta, R Guo, E Yezerets, J Arroyo\u2026\u00a0- arXiv preprint arXiv\u00a0\u2026, 2019 - arxiv.org"
+    },
+    {
+        "title": "Mind the Gap: Measuring Generalization Performance Across Multiple Objectives",
+        "link": "https://books.google.com/books?hl=en&lr=&id=UyG3EAAAQBAJ&oi=fnd&pg=PA130&ots=2LU9ODs6Di&sig=MfEk_Aga7z3mwCXnSmyeOA0ff-4",
+        "snippet": "Modern machine learning models are often constructed taking into account multiple objectives, eg, minimizing inference time while also maximizing accuracy. Multi-objective\u00a0\u2026",
+        "authors_year_info": "F Pfisterer, B Bischl, F Hutter\u00a0- \u2026\u00a0-la-Neuve, Belgium, April 12\u201314\u00a0\u2026, 2023 - books.google.com"
+    },
+    {
+        "title": "Confident Learning for Machines and Humans",
+        "link": "https://dspace.mit.edu/handle/1721.1/139321",
+        "snippet": "The coupling of machine intelligence and human intelligence has the potential to empower humans with augmented capabilities (eg, improving rhyme-density while writing song lyrics\u00a0\u2026",
+        "authors_year_info": "CG Northcutt - 2021 - dspace.mit.edu"
+    },
+    {
+        "title": "SML-AutoML: A Smart Meta-Learning Automated Machine Learning Framework",
+        "link": "https://www.academia.edu/download/104614536/latest.pdf",
+        "snippet": "Abstract Machine Learning (ML) and Automated Machine Learning (Auto-ML) had attracted more attention and interest in industrial applications in recent years. Machine learning\u00a0\u2026",
+        "authors_year_info": "I Gomaa, A Zidane, HMO Mokhtar, N El-Tazi - 2022 - academia.edu"
+    },
+    {
+        "title": "Nearest Centroid Classifier Based on Information Value and Homogeneity",
+        "link": "https://link.springer.com/chapter/10.1007/978-981-99-6062-0_5",
+        "snippet": "The aim of this paper is to introduce a novel classification algorithm based on distance to class centroids with weighted Euclidean distance metric. Features are weighted by their\u00a0\u2026",
+        "authors_year_info": "MH \u00d6z\u00e7elik, S Bulkan\u00a0- \u2026\u00a0on Intelligent Manufacturing and Service Systems, 2023 - Springer"
+    },
+    {
+        "title": "On solving distributionally robust optimization formulations efficiently",
+        "link": "https://ieeexplore.ieee.org/abstract/document/9715515/",
+        "snippet": "In this paper we propose and investigate a new stochastic gradient descent (SGD) algorithm to efficiently solve distributionally robust optimization (DRO) formulations that arise across a\u00a0\u2026",
+        "authors_year_info": "S Ghosh, MS Squillante\u2026\u00a0- 2021 Winter Simulation\u00a0\u2026, 2021 - ieeexplore.ieee.org"
+    },
+    {
+        "title": "Ethical Manufacturing of Datasets for Artificial Intelligence: an Empirical Investigation into the State of Documentation Practice",
+        "link": "https://webthesis.biblio.polito.it/23519/",
+        "snippet": "Artificial Intelligence research and industrial developments have made great strides in recent years becoming increasingly pervasive within society, given the diffusion of AI\u00a0\u2026",
+        "authors_year_info": "M Rondina - 2022 - webthesis.biblio.polito.it"
+    },
+    {
+        "title": "Automated Machine Learning under Resource Constraints",
+        "link": "https://search.proquest.com/openview/8a5e94a9279d7fad6b10c11f35ca20ce/1?pq-origsite=gscholar&cbl=18750&diss=y",
+        "snippet": "Automated machine learning (AutoML) seeks to reduce the human and machine costs of finding machine learning models and hyperparameters with good predictive performance\u00a0\u2026",
+        "authors_year_info": "C Yang - 2022 - search.proquest.com"
+    },
+    {
+        "title": "Systems for AutoML Research",
+        "link": "https://research.tue.nl/files/202454606/20220519_Gijsbers_hf.pdf",
+        "snippet": "Machine learning (ML) is used in many applications but creating a useful model from data is a knowledge-intensive and laborious task. Automated machine learning (AutoML) aims to\u00a0\u2026",
+        "authors_year_info": "P Gijsbers - 2022 - research.tue.nl"
+    },
+    {
+        "title": "NCQS: Nonlinear Convex Quadrature Surrogate Hyperparameter Optimization",
+        "link": "https://openaccess.thecvf.com/content/ICCV2023W/RCV/html/Abraham_NCQS_Nonlinear_Convex_Quadrature_Surrogate_Hyperparameter_Optimization_ICCVW_2023_paper.html",
+        "snippet": "Deep learning has revolutionized artificial intelligence and enabled breakthroughs across various domains. However, as deep learning models continue to grow in scale and\u00a0\u2026",
+        "authors_year_info": "S Abraham, KDG Maduranga\u2026\u00a0- Proceedings of the\u00a0\u2026, 2023 - openaccess.thecvf.com"
+    },
+    {
+        "title": "On the Predictive Power of Graph Neural Networks",
+        "link": "https://search.proquest.com/openview/bfdcce6c72efae59d69cd3b222e8ab08/1?pq-origsite=gscholar&cbl=18750&diss=y",
+        "snippet": "Abstract Graph Neural Networks (GNNs) are a class of deep learning models for making predictions on graph-structured data. Many different GNN models have been proposed to\u00a0\u2026",
+        "authors_year_info": "W Hu - 2022 - search.proquest.com"
+    },
+    {
+        "title": "FEATURE ENGINEERING PIPELINE OPTIMISATION IN AUTOML WORKFLOW USING LARGE LANGUAGE MODELS",
+        "link": "http://ftp.pdmi.ras.ru/pub/publicat/znsl/v540/p082.pdf",
+        "snippet": "One important way to achieve more efficient automated machine learning is to involve meta-optimisation for all stages of the pipeline design. In this work, we aim to use large language\u00a0\u2026",
+        "authors_year_info": "IL Iov, NO Nikitin - pdmi.ras.ru"
+    },
+    {
+        "title": "D7. 7 AutoAI Benchmarks v. 3 Report",
+        "link": "https://tailor-network.eu/wp-content/uploads/2024/12/D7.7-AutoAI-Benchmarks-v.3.pdf",
+        "snippet": "The development of AutoAI techniques and assessment of their quality in terms of performance and trustworthiness hinges on high-quality benchmarks. Many AI systems are\u00a0\u2026",
+        "authors_year_info": "A Bosman, H Hoos, JN Vanschoren, D Mitra Barachi - tailor-network.eu"
+    },
+    {
+        "title": "Hyperparameter selection for high dimensional sparse learning: application to neuroimaging",
+        "link": "https://theses.hal.science/tel-03373531/",
+        "snippet": "Due to non-invasiveness and excellent time resolution, magneto-and electroencephalography (M/EEG) have emerged as tools of choice to monitor brain activity\u00a0\u2026",
+        "authors_year_info": "Q Bertrand - 2021 - theses.hal.science"
+    },
+    {
+        "title": "Automated Machine Learning and Task Space Navigation",
+        "link": "https://ecommons.cornell.edu/bitstream/handle/1813/109695/Wu_cornell_0058O_11200.pdf?sequence=1",
+        "snippet": "Machine learning has become almost ubiquitous in our lives. Training these models have even entered mainstream with the advent of efficient deep learning frameworks and\u00a0\u2026",
+        "authors_year_info": "Z Wu - 2021 - ecommons.cornell.edu"
+    },
+    {
+        "title": "Towards Localization via Data Embedding for TabPFN",
+        "link": "https://openreview.net/forum?id=LFyQyV5HxQ",
+        "snippet": "Prior-data fitted networks (PFNs), especially TabPFN, have shown significant promise in tabular data prediction. However, their scalability is limited by the quadratic complexity of the\u00a0\u2026",
+        "authors_year_info": "M Koshil, T Nagler, M Feurer\u2026\u00a0- NeurIPS 2024 Third Table\u00a0\u2026 - openreview.net"
+    },
+    {
+        "title": "Neural Network Hyperparameter Optimization with Sparse Grids",
+        "link": "https://mediatum.ub.tum.de/doc/1728129/document.pdf",
+        "snippet": "In recent years, machine learning has gained significant importance due to the increasing amount of available data. The numerous different model architectures share a common\u00a0\u2026",
+        "authors_year_info": "M Michallik - 2023 - mediatum.ub.tum.de"
+    },
+    {
+        "title": "Machine Learning with Applications",
+        "link": "https://publikationen.fhb.fh-swf.de/servlets/MCRFileNodeServlet/fhswf_derivate_00000505/1-s2.0-S2666827022000482-main.pdf",
+        "snippet": "Nowadays there are numerous powerful software packages available for most areas of machine learning (ML). These can be roughly divided into frameworks that solve detailed\u00a0\u2026",
+        "authors_year_info": "D Arend, S Yuwono, MR Diprasetya, A Schwung - publikationen.fhb.fh-swf.de"
+    },
+    {
+        "title": "EasyMl: An AutoMl System Using Meta Learning and Particle Swarm Optimization",
+        "link": "https://search.proquest.com/openview/946963f9ad2cb0de767e71235fdbddf4/1?pq-origsite=gscholar&cbl=2026366&diss=y",
+        "snippet": "In recent years machine learning has made great strides in many application areas and an ever-growing number of disciplines rely on it. However, machine learning modelling process\u00a0\u2026",
+        "authors_year_info": "LN Swale - 2023 - search.proquest.com"
+    },
+    {
+        "title": "Local learning for dynamic ensemble selection",
+        "link": "https://espace.etsmtl.ca/id/eprint/3297/",
+        "snippet": "Dynamic selection techniques are based on the idea that the classifiers from an ensemble are experts in different areas of the feature space. As such, they attempt to single out only\u00a0\u2026",
+        "authors_year_info": "M De Araujo Souza - 2023 - espace.etsmtl.ca"
+    },
+    {
+        "title": "Impact of Hyperparameters on Model Performance in Split Learning",
+        "link": "https://theses.liacs.nl/pdf/2023-2024-AdwanA.pdf",
+        "snippet": "This thesis investigates how hyperparameters influence model performance in Split Learning, a decentralized machine learning method. The study conducts thorough testing on\u00a0\u2026",
+        "authors_year_info": "A Adwan - theses.liacs.nl"
+    },
+    {
+        "title": "Bachelor's Data Science",
+        "link": "https://research.tue.nl/files/341293001/Thesis_BDS_Iwo_Godzwon.pdf",
+        "snippet": "The field of machine learning relies heavily on easy access to high-quality datasets, as these datasets are essential for driving growth and innovation. Data warehouses play a\u00a0\u2026",
+        "authors_year_info": "I Godzwon - research.tue.nl"
+    },
+    {
+        "title": "MDSAA",
+        "link": "https://run.unl.pt/bitstream/10362/152096/1/TCDMAA1365.pdf",
+        "snippet": "In recent years machine learning has made great strides in many application areas and an ever-growing number of disciplines rely on it. However, machine learning modelling process\u00a0\u2026",
+        "authors_year_info": "LN Swale - run.unl.pt"
+    },
+    {
+        "title": "Robust OCTs",
+        "link": "https://repository.tudelft.nl/file/File_00e823d2-69d0-4bfa-a135-7430ed9d8c65?preview=1",
+        "snippet": "The application of machine learning in daily life requires interpretability and robustness. In this paper we try to make the process of building robust and interpretable decision trees\u00a0\u2026",
+        "authors_year_info": "G Lek - 2022 - repository.tudelft.nl"
+    },
+    {
+        "title": "Design and implementation of a python evaluation engine for OpenML",
+        "link": "https://research.tue.nl/files/306911186/Thesis_BDS_Peeters_Ranx.pdf",
+        "snippet": "OpenML is an online platform for open science collaboration in machine learning, which is being used to share datasets and results of machine learning experiments. This paper will\u00a0\u2026",
+        "authors_year_info": "FR Peeters - research.tue.nl"
+    },
+    {
+        "title": "Solving Multiclass Imbalance Problem with Codes",
+        "link": "https://search.proquest.com/openview/0b9fa9b8d89fc616069301637214b5fe/1?pq-origsite=gscholar&cbl=2026366&diss=y",
+        "snippet": "Data imbalance is a common problem in classification tasks, and the minority classes are usually the classes of interest. Existing related research mainly focuses on addressing the\u00a0\u2026",
+        "authors_year_info": "CX Wang - 2021 - search.proquest.com"
+    },
+    {
+        "title": "Supervisors",
+        "link": "https://theses.liacs.nl/pdf/2019-2020-WinkT.pdf",
+        "snippet": "Reproducible results are one of the cornerstones of open science. In an environment of large datasets and comprehensive data analysis, experimental results are quickly getting\u00a0\u2026",
+        "authors_year_info": "JN van Rijn, WA Kosters - theses.liacs.nl"
+    },
+    {
+        "title": "From Parameter Tuning to Dynamic Heuristic Selection",
+        "link": "https://core.ac.uk/download/pdf/353950372.pdf",
+        "snippet": "The importance of balance between exploration and exploitation plays a crucial role while solving combinatorial optimization problems. This balance is reached by two general\u00a0\u2026",
+        "authors_year_info": "Y Semendiak - 2020 - core.ac.uk"
+    },
+    {
+        "title": "Uso de meta-aprendizado para avaliar a tunagem para o algoritmo M\u00e1quina de vetores de suporte",
+        "link": "https://www.repositorio.ufal.br/handle/123456789/13461",
+        "snippet": "Aprendizagem de m\u00e1quina \u00e9 um dos campos de estudo da \u00e1rea da Intelig\u00eancia Artificial, onde faz uso de algoritmos que realizam classifica\u00e7\u00e3o e agrupamento de dados com o\u00a0\u2026",
+        "authors_year_info": "JCS Costa - 2022 - repositorio.ufal.br"
+    },
+    {
+        "title": "Hiyerar\u015fik B\u00f6l\u00fcc\u00fc K\u00fcmeleme ile \u00c7ok S\u0131n\u0131fl\u0131 S\u0131n\u0131fland\u0131rma Performans\u0131n\u0131n Geli\u015ftirilmesi: K\u00fcmeleme Algoritmalar\u0131 \u00dczerine Kar\u015f\u0131la\u015ft\u0131rmal\u0131 Bir Analiz",
+        "link": "https://search.ebscohost.com/login.aspx?direct=true&profile=ehost&scope=site&authtype=crawler&jrnl=13098640&AN=179989123&h=1n2oqQT6w%2FVDYI4rIPBzEDuIKeHu2Ngygj6%2B8M2QY5cHpUWwL4YmVU3a8pdDLRhl0VJC86LX0X%2BY5wLMwmoNQQ%3D%3D&crl=c",
+        "snippet": "\u00d6Z \u00c7ok s\u0131n\u0131fl\u0131 s\u0131n\u0131fland\u0131rma problemini hiyerar\u015fik bi\u00e7ime d\u00f6n\u00fc\u015ft\u00fcrerek performans geli\u015fimi elde etmek ara\u015ft\u0131r\u0131lan bir konudur. B\u00f6ylesi bir d\u00f6n\u00fc\u015f\u00fcm\u00fc otomatik olarak ger\u00e7ekle\u015ftirmede\u00a0\u2026",
+        "authors_year_info": "C Alag\u00f6z\u00a0- Dicle University Journal of Engineering/Dicle\u00a0\u2026, 2024 - search.ebscohost.com"
+    },
+    {
+        "title": "Title not available",
+        "link": null,
+        "snippet": "",
+        "authors_year_info": "LM Garc\u00eda - Universidad de La Habana"
+    },
+    {
+        "title": "Master Computer Science",
+        "link": "https://theses.liacs.nl/pdf/2020-2021-VoetterRobin.pdf",
+        "snippet": "Compilation is the process of translating the textual representation of source code into machine code. This process is traditionally implemented as a series of single-threaded\u00a0\u2026",
+        "authors_year_info": "N Bohrweg - 2023 - theses.liacs.nl"
+    },
+    {
+        "title": "Title not available",
+        "link": null,
+        "snippet": "",
+        "authors_year_info": "M Reis, A Lorena\u00a0- Anais do XVII Encontro Nacional de Intelig\u00eancia\u00a0\u2026, 2020 - SBC"
+    },
+    {
+        "title": "K\u00fcmeleme algoritmalar\u0131n\u0131n hiyerar\u015fik b\u00f6l\u00fcc\u00fc k\u00fcmeleme y\u00f6nteminde \u00e7ok s\u0131n\u0131fl\u0131 s\u0131n\u0131fland\u0131rma performans\u0131na etkisi: bir analiz",
+        "link": "https://dergipark.org.tr/en/pub/dumf/issue/85466/1430306",
+        "snippet": "Transforming a multi-class classification problem into a hierarchical form to achieve performance improvement is a topic of research. An essential aspect in automating such\u00a0\u2026",
+        "authors_year_info": "C Alagoz\u00a0- Dicle \u00dcniversitesi M\u00fchendislik Fak\u00fcltesi M\u00fchendislik\u00a0\u2026 - dergipark.org.tr"
+    }
+]
